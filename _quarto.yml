@@ -6,7 +6,7 @@ book:
   title: "A Comprehensive Guide to Research"
   author: "Shamsuddeen H Muhammad"
   date: "6/19/2023"
-  favicon: logo.png
+  cover-image: logo.png
   chapters:
     - index.qmd
     - intro.qmd
