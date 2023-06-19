@@ -1,0 +1,9 @@
+# Preface {.unnumbered}
+
+Research can be tedious and arduous particularly if one is without a mentor. Even with mentorship, it requires perseverence and fortitude. This motivated my decision to share a resource that can guide young scholars as they navigate the research terrain.
+
+At Arewa Data Science Academy, we have a vision of creating the next generation of researchers that are deeply skilled in Data Science and Machine Learning, which is why we provide free topnotch mentorship to hardworking and motivated youngsters. 
+
+In this resource, I intend to share valuable resources that can significantly ease the ability of our young scholars to perform qualitative research. 
+
+

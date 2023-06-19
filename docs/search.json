@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A Comprehensive Guide to Research",
+    "section": "",
+    "text": "Preface\nResearch can be tedious and arduous particularly if one is without a mentor. Even with mentorship, it requires perseverence and fortitude. This motivated my decision to share a resource that can guide young scholars as they navigate the research terrain.\nAt Arewa Data Science Academy, we have a vision of creating the next generation of researchers that are deeply skilled in Data Science and Machine Learning, which is why we provide free topnotch mentorship to hardworking and motivated youngsters.\nIn this resource, I intend to share valuable resources that can significantly ease the ability of our young scholars to perform qualitative research."
+  },
+  {
+    "objectID": "intro.html#how-to-get-started-with-python",
+    "href": "intro.html#how-to-get-started-with-python",
+    "title": "1  Introduction",
+    "section": "1.1 How to get started with Python",
+    "text": "1.1 How to get started with Python"
+  },
+  {
+    "objectID": "summary.html#python-vs-r-in-data-science-a-case-for-bilingual-data-scientist",
+    "href": "summary.html#python-vs-r-in-data-science-a-case-for-bilingual-data-scientist",
+    "title": "2  Chapter One",
+    "section": "2.1 Python vs R in Data Science: A Case for Bilingual Data Scientist",
+    "text": "2.1 Python vs R in Data Science: A Case for Bilingual Data Scientist\nThis book will also contain resources that will be helpful in making others learn programming. It will be straight to point and avoid jargons as much as possible. I begin with a long time controversy about the best language to use as a data scientist, Python or R. I have used both and I will attempt to highlight the strengths and unavoidably the weaknesses each language possess."
+  }
+]
