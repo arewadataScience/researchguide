@@ -1,3 +1,21 @@
-# Introduction
+## Introduction
 
-## How to get started with Python
+## Advice to New Researchers
+
+There are as many paths to research as there are researchers. Every researcher has what worked and what did not work for him/her. However, the following are a few generic advice that works for all:
+
+1.  Practice writing skills and make sure you learn to enjoy research
+
+2.  Be curious and explore how things work. This will help in making your research more grounded.
+
+3.  Participate in scientific discussions with peers as this can unlock new insights you never saw on your own.
+
+4.  Perseverance in times of difficulty as with research, inevitably there will be times where one will feel like quitting due to the challenges that come up.
+
+5.  Look for mentors to guide and ease your research journey
+
+6.  Develop presentation skills.
+
+7.  Work on your happiness and mental health. Your personal well being is most important.
+
+## 

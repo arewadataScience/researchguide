@@ -1,6 +1,5 @@
 # Chapter One
 
-## Python vs R in Data Science: A Case for Bilingual Data Scientist
+## Useful Research Tools
 
-This book will also contain resources that will be  helpful in making others learn programming. It will be straight to point and avoid jargons as much as possible. I begin with a long time controversy about the best language to use as a data scientist, Python or R. I have used both and I will attempt to highlight the strengths and unavoidably the weaknesses each language possess.
-
+Here are some research tool that will be helpful for every researcher.
